@@ -99,9 +99,7 @@ For major changes, please open an issue first to discuss what you'd like to modi
 This project is licensed under the MIT License — see the LICENSE
  file for details.
 
- ## .
-
-🌟 Acknowledgements
+## 🌟 Acknowledgements
 
 Built as part of the Resource Open Source Project Lab (ROSP).
 
