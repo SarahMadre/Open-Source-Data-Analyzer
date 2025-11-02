@@ -94,6 +94,8 @@ Contributions are welcome!
 If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 For major changes, please open an issue first to discuss what you'd like to modify or enhance.
 
+You can find detailed contribution guidelines in the [**CONTRIBUTING.md**](CONTRIBUTING.md) file.
+
 ## 🪪 License
 
 This project is licensed under the MIT License — see the LICENSE
