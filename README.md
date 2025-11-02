@@ -98,8 +98,8 @@ You can find detailed contribution guidelines in the [**CONTRIBUTING.md**](CONTR
 
 ## 🪪 License
 
-This project is licensed under the MIT License — see the LICENSE
- file for details.
+This project is licensed under the [MIT License](LICENSE) — see the file for details.
+
 
 ## 🌟 Acknowledgements
 
