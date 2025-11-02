@@ -98,3 +98,13 @@ For major changes, please open an issue first to discuss what you'd like to modi
 
 This project is licensed under the MIT License — see the LICENSE
  file for details.
+
+ ## .
+
+🌟 Acknowledgements
+
+Built as part of the Resource Open Source Project Lab (ROSP).
+
+Inspired by the need for a simple, no-code data analysis tool.
+
+Special thanks to the open-source community for providing amazing libraries like Streamlit and Plotly.
