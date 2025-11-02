@@ -88,13 +88,13 @@
 
     streamlit run app.py
 
-🧩 Contributing
+## 🧩 Contributing
 
 Contributions are welcome!
 If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 For major changes, please open an issue first to discuss what you'd like to modify or enhance.
 
-🪪 License
+## 🪪 License
 
 This project is licensed under the MIT License — see the LICENSE
  file for details.
