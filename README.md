@@ -21,7 +21,8 @@
 - **Interactive Visualizations**  
   - Bar, Line, Scatter, Histogram, Box, Violin, Pie, and Heatmap charts  
   - Auto chart suggestion based on column types  
-  - Smooth and interactive plotting with Plotly  
+  - Smooth and interactive plotting with Plotly
+  - Data visualization 
 
 - **Dashboard Overview**  
   - Key metrics: row count, column count, missing values, duplicates  
