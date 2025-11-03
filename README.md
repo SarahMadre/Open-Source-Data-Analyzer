@@ -56,7 +56,7 @@
 
 ---
 
-## ⚡ Installation & Setup
+## ⚡ Installation and Setup
 
 ### Clone the repository
 
